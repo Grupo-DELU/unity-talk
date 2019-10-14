@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Legs
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Lucas
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/IK-Leg.l
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/IK-Leg.l/Foot.l
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/IK-Leg.r
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/IK-Leg.r/Foot.r
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/Root
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/Root/Tight.l
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/Root/Tight.l/LowerLeg.l
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/Root/Tight.r
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/Root/Tight.r/LowerLeg.r
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/Root/Torso
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/Root/Torso/Head
+    m_Weight: 1
+  - m_Path: Lucas.Skeleton/Root/Torso/UpperArm.l
+    m_Weight: 0
+  - m_Path: Lucas.Skeleton/Root/Torso/UpperArm.l/LowerArm.l
+    m_Weight: 0
+  - m_Path: Lucas.Skeleton/Root/Torso/UpperArm.l/LowerArm.l/Hand.l
+    m_Weight: 0
+  - m_Path: Lucas.Skeleton/Root/Torso/UpperArm.r
+    m_Weight: 0
+  - m_Path: Lucas.Skeleton/Root/Torso/UpperArm.r/LowerArm.r
+    m_Weight: 0
+  - m_Path: Lucas.Skeleton/Root/Torso/UpperArm.r/LowerArm.r/Hand.r
+    m_Weight: 0

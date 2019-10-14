@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: b919116bc2b3b3c44aa9ee5c322c1e77
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bean.01
+    100002: Bean.02
+    100004: Wall.01
+    100006: Wall.02
+    100008: Wall.03
+    100010: Wall.Deco.01
+    100012: Wall.Deco.02
+    100014: Wall.Deco.03
+    100016: //RootNode
+    100018: CrustyCrabWindow
+    100020: CrustyCrabWindow.LeftDoor
+    100022: CrustyCrabWindow.RightDoor
+    100024: Wall.04
+    100026: Wall.Deco.04
+    100028: Floor2x2
+    400000: Bean.01
+    400002: Bean.02
+    400004: Wall.01
+    400006: Wall.02
+    400008: Wall.03
+    400010: Wall.Deco.01
+    400012: Wall.Deco.02
+    400014: Wall.Deco.03
+    400016: //RootNode
+    400018: CrustyCrabWindow
+    400020: CrustyCrabWindow.LeftDoor
+    400022: CrustyCrabWindow.RightDoor
+    400024: Wall.04
+    400026: Wall.Deco.04
+    400028: Floor2x2
+    2100000: Material.001
+    2100002: Material.002
+    2300000: Bean.01
+    2300002: Bean.02
+    2300004: Wall.01
+    2300006: Wall.02
+    2300008: Wall.03
+    2300010: Wall.Deco.01
+    2300012: Wall.Deco.02
+    2300014: Wall.Deco.03
+    2300016: CrustyCrabWindow
+    2300018: CrustyCrabWindow.LeftDoor
+    2300020: CrustyCrabWindow.RightDoor
+    2300022: Wall.04
+    2300024: Wall.Deco.04
+    2300026: Floor2x2
+    3300000: Bean.01
+    3300002: Bean.02
+    3300004: Wall.01
+    3300006: Wall.02
+    3300008: Wall.03
+    3300010: Wall.Deco.01
+    3300012: Wall.Deco.02
+    3300014: Wall.Deco.03
+    3300016: CrustyCrabWindow
+    3300018: CrustyCrabWindow.LeftDoor
+    3300020: CrustyCrabWindow.RightDoor
+    3300022: Wall.04
+    3300024: Wall.Deco.04
+    3300026: Floor2x2
+    4300000: Wall.Deco.03
+    4300002: Wall.Deco.02
+    4300004: Wall.03
+    4300006: Bean.02
+    4300008: Bean.01
+    4300010: Wall.Deco.01
+    4300012: Wall.02
+    4300014: Wall.01
+    4300016: Wall.Deco.04
+    4300018: CrustyCrabWindow
+    4300020: CrustyCrabWindow.LeftDoor
+    4300022: CrustyCrabWindow.RightDoor
+    4300024: Wall.04
+    4300026: Floor2x2
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
